@@ -8,6 +8,7 @@ This is a Node.js command-line application that takes in information about emplo
 
 ## Screenshot
 
+![tmprof_img](https://user-images.githubusercontent.com/87788419/142738703-384d4757-f358-405d-adff-4a8925ad507c.png)
 
 
 ## Link to walkthrough video
